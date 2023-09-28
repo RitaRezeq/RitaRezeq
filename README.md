@@ -6,7 +6,7 @@ I'm a fifth-year IT student at Damascus University, and I'm currently working as
 In addition to my current work, I have some experience with the following programming languages and frameworks:
 
 ### Programming languages: 
-Java, JavaScript, C++, Dart
+PHP, Java, JavaScript, C++, Dart
 
 ### Frameworks: 
 Laravel, Flutter, Three.js
